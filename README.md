@@ -27,23 +27,10 @@ HTML5 – Structure
 CSS3 – Styling (Custom properties, Flexbox, Grid)
 JavaScript (Vanilla JS) – Logic & Interactivity
 
-Project Structure
-------------------------
-📁 User-Task-Dashboard
-│── index.html
-│── task.css
-│── task.js
-
 How to Use
 -------------------------
-Click "Add User" to create a user
-Click "Add New Task" under a user
+-Click "Add User" to create a user
+-Click "Add New Task" under a user
 Fill in:
-Task name
-Priority
-Category
-Deadline
-Progress
-Use search and filters to manage tasks easily
-Toggle between Dark/Light mode
+Task name,Priority,Category,Deadline,Progress,Use search and filters to manage tasks easily,Toggle between Dark/Light mode
 
